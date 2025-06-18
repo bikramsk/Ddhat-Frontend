@@ -74,7 +74,7 @@ const Header = ({ data }) => {
               width={200}
               height={110}
               priority={true}
-              className="h-[110px] w-[200px] transition-transform transform "
+              className="h-[50px] w-[150px] transition-transform transform "
             />
           </Link>
         </div>
